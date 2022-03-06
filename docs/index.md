@@ -95,3 +95,5 @@ except:
 ```
 
 Example of the script execution from the terminal is shown below:
+
+![Script execution](script_terminal_exectuion.jpg "Script execution in terminal")
