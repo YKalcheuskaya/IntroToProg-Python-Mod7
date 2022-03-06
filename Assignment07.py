@@ -32,8 +32,6 @@ def save_data_to_file(file_name, list_of_data):
 
         # The file has been saved successfully
         return True
-    except FileNotFoundError:
-        print(file_name + " does not exist!")
     except Exception as ex:
         print("Failed to read the customers data from the file!")
         print(ex)
